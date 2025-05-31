@@ -125,5 +125,3 @@ String password = "yourpassword";
 ---
 
 ```
-
-هل ترغب أن أجهز لك نسخة بصيغة `README.md` قابلة للتحميل مباشرة؟
