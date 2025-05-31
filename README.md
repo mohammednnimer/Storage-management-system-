@@ -60,12 +60,12 @@ Foreign keys enforce referential integrity among orders, products, customers, an
 
 ### Steps
 
-1. **Clone the repository**
+ **Clone the repository**
 
    ```bash
-  git clone https://github.com/mohammednnimer/Storage-management-system-.git
-cd Storage-management-system-
-   ```
+   git clone https://github.com/mohammednnimer/Storage-management-system-.git
+   cd Storage-management-system-
+
 
 2. **Create the MySQL Database**
 
